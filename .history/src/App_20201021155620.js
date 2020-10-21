@@ -574,7 +574,7 @@ alignItems:'space-between',justifyContent:'center',paddingLeft:40,}}>
 
 <Col sm="6" md="3">
 <Card className="cardproject"  >
-<AnimationWrapper className="projectcardhoverheight"><CardImg   top width="100%" height="100%" className="Projectcardimgheight" src={Gymlog} style={{borderTopLeftRadius:8,borderTopRightRadius:8}} alt="Card image cap" /></AnimationWrapper>
+<AnimationWrapper className="projectcardhoverheight"><CardImg   top width="98%" height="98%" className="Projectcardimgheight" src={Gymlog} style={{borderTopLeftRadius:8,borderTopRightRadius:8}} alt="Card image cap" /></AnimationWrapper>
         <CardText >    
 
         <div>
@@ -592,7 +592,7 @@ alignItems:'space-between',justifyContent:'center',paddingLeft:40,}}>
 
 <Col sm="6" md="3">
 <Card className="cardproject" style={{backgroundColor:'#3f372a',}} >
-<AnimationWrapper className="projectcardhoverheight" style={{display:'flex',alignItems:'center'}}><CardImg   top width="100%" height="99.7%" className="Projectcardimgheight" src={dhahab} style={{borderTopLeftRadius:28,borderTopRightRadius:28}} alt="Card image cap" /></AnimationWrapper>
+<AnimationWrapper className="projectcardhoverheight"><CardImg   top width="100%" height="100%" className="Projectcardimgheight" src={dhahab} style={{borderTopLeftRadius:28,borderTopRightRadius:28}} alt="Card image cap" /></AnimationWrapper>
         <CardText >    
 
         <div>

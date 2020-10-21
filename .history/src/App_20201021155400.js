@@ -32,7 +32,7 @@ import testing from '../src/assests/testing.gif';
 import flex from '../src/assests/flex.gif';
 import css31 from '../src/assests/css31.gif';
 import snoop from '../src/assests/snoop.png';
-import dhahab from '../src/assests/dhahab.jpeg';
+import dhahab from '../src/assests/dhab.jpeg';
 
 import profile11 from '../src/assests/profile11.png';
 import { shadows } from '@material-ui/system';
@@ -581,7 +581,7 @@ alignItems:'space-between',justifyContent:'center',paddingLeft:40,}}>
           <div className="textcolorbackground" >
           <AnimationWrapper ><Button  className="borderofbutttonremove"> Project Details</Button>{' '}</AnimationWrapper> </div>
         {/* <Button color="secondary">Details</Button>{' '} */}
-      <div style={{display:'flex',justifyContent:'space-evenly',alignItems:'center',height:70,}}>
+      <div style={{display:'flex',justifyContent:'space-evenly',alignItems:'center',height:77,}}>
       <AnimationWrapper><Button color="success"><a className="linkcolor mob-sizefont" target="_blank" href="https://apkpure.com/u/12647160/post/8817223">See Live</a></Button>{' '}</AnimationWrapper>
       <AnimationWrapper><Button color="success"><a className="linkcolor mob-sizefont" target="_blank" href="https://apkpure.com/u/12647160/post/8817223">Source Code</a></Button>{' '}</AnimationWrapper>
       <AnimationWrapper><Button color="success"><a className="linkcolor mob-sizefont" target="_blank" href="https://apkpure.com/u/12647160/post/8817223">Watch Video</a></Button>{' '}</AnimationWrapper>
@@ -592,7 +592,7 @@ alignItems:'space-between',justifyContent:'center',paddingLeft:40,}}>
 
 <Col sm="6" md="3">
 <Card className="cardproject" style={{backgroundColor:'#3f372a',}} >
-<AnimationWrapper className="projectcardhoverheight" style={{display:'flex',alignItems:'center'}}><CardImg   top width="100%" height="99.7%" className="Projectcardimgheight" src={dhahab} style={{borderTopLeftRadius:28,borderTopRightRadius:28}} alt="Card image cap" /></AnimationWrapper>
+<AnimationWrapper className="projectcardhoverheight"><CardImg   top width="100%" height="100%" className="Projectcardimgheight" src={dhab} style={{borderTopLeftRadius:28,borderTopRightRadius:28}} alt="Card image cap" /></AnimationWrapper>
         <CardText >    
 
         <div>

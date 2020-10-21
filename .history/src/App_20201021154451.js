@@ -581,7 +581,7 @@ alignItems:'space-between',justifyContent:'center',paddingLeft:40,}}>
           <div className="textcolorbackground" >
           <AnimationWrapper ><Button  className="borderofbutttonremove"> Project Details</Button>{' '}</AnimationWrapper> </div>
         {/* <Button color="secondary">Details</Button>{' '} */}
-      <div style={{display:'flex',justifyContent:'space-evenly',alignItems:'center',height:70,}}>
+      <div style={{display:'flex',justifyContent:'space-evenly',alignItems:'center',height:77,}}>
       <AnimationWrapper><Button color="success"><a className="linkcolor mob-sizefont" target="_blank" href="https://apkpure.com/u/12647160/post/8817223">See Live</a></Button>{' '}</AnimationWrapper>
       <AnimationWrapper><Button color="success"><a className="linkcolor mob-sizefont" target="_blank" href="https://apkpure.com/u/12647160/post/8817223">Source Code</a></Button>{' '}</AnimationWrapper>
       <AnimationWrapper><Button color="success"><a className="linkcolor mob-sizefont" target="_blank" href="https://apkpure.com/u/12647160/post/8817223">Watch Video</a></Button>{' '}</AnimationWrapper>
@@ -591,8 +591,8 @@ alignItems:'space-between',justifyContent:'center',paddingLeft:40,}}>
 </CardText> </Card></Col>
 
 <Col sm="6" md="3">
-<Card className="cardproject" style={{backgroundColor:'#3f372a',}} >
-<AnimationWrapper className="projectcardhoverheight" style={{display:'flex',alignItems:'center'}}><CardImg   top width="100%" height="99.7%" className="Projectcardimgheight" src={dhahab} style={{borderTopLeftRadius:28,borderTopRightRadius:28}} alt="Card image cap" /></AnimationWrapper>
+<Card className="cardproject" style={{backgroundColor:'#246A73',}} >
+<AnimationWrapper className="projectcardhoverheight"><CardImg   top width="100%" height="100%" className="Projectcardimgheight" src={dhahab} style={{borderTopLeftRadius:28,borderTopRightRadius:}} alt="Card image cap" /></AnimationWrapper>
         <CardText >    
 
         <div>
